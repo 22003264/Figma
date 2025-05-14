@@ -77,4 +77,4 @@ Figma
 ![alt text](<WhatsApp Image 2025-05-14 at 14.39.26_e28b934e.jpg>)
 
 ## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
+The program to design, develop and deploy a web application for event registration is completed successfully.     
